@@ -22,7 +22,7 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Build a centralized analytics solution using Power BI.
 - Provide actionable insights across key business verticals.
 - Empower stakeholders with interactive and insightful reports.
@@ -30,7 +30,7 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 📊 Datasets & Sources
+## Datasets & Sources
 
 **Sources Used:**
 - **MySQL Database**: Main transactional and dimensional tables.
@@ -43,7 +43,7 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 🧩 Data Modeling
+## Data Modeling
 - **Schema**: Snowflake Schema  
 - **Key Actions**:
   - Data extraction via MySQL
@@ -55,37 +55,37 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 📈 Dashboard Overview
+##  Dashboard Overview
 
-### 🔹 Home Page
+### Home Page
 - Visual navigation using bookmarks  
 - Last refresh date and data currency indicators  
 ![Home](https://github.com/VASU12122001/Business-Insights-360/blob/main/Home%20Page.png)
 
-### 🔹 Finance View
+### Finance View
 - Net Sales, Gross Margin %, Net Profit % KPIs  
 - Profit & Loss summary  
 - Top/Bottom product & customer profitability  
 ![Finance](https://github.com/VASU12122001/Business-Insights-360/blob/main/Finance%20View.png)
 
-### 🔹 Sales View
+### Sales View
 - Customer & product performance metrics  
 - Performance matrix and donut breakdowns  
 ![Sales](https://github.com/VASU12122001/Business-Insights-360/blob/main/Sales%20View.png)
 
-### 🔹 Marketing View
+### Marketing View
 - Segment-wise profitability  
 - Dual-filter scatter plots  
 - Waterfall and donut chart breakdowns  
 ![Marketing](https://github.com/VASU12122001/Business-Insights-360/blob/main/Marketing%20View.png)
 
-### 🔹 Supply Chain View
+### Supply Chain View
 - Forecast accuracy vs. error analysis  
 - Monthly error trends  
 - Supply chain KPIs per product  
 ![Supply Chain](https://github.com/VASU12122001/Business-Insights-360/blob/main/Supply%20View.png)
 
-### 🔹 Executive Summary
+### Executive Summary
 - High-level KPIs  
 - Channel/division revenue splits  
 - Yearly trends and subzone performance  
@@ -93,7 +93,7 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 📌 Key Business Insights
+## Key Business Insights
 - **Finance**: Identified most and least profitable products, and net sales trends.
 - **Sales**: Pinpointed customer segments contributing most to revenue.
 - **Marketing**: Assessed performance by region/market segment.
@@ -102,15 +102,15 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 🔍 Challenges & Learnings
+## Challenges & Learnings
 
-### 🚧 Challenges
+### Challenges
 - Faced difficulty writing advanced **DAX** measures.
 - Managing **many-to-many relationships**.
 - Ensuring **Data cleaning** by dealing with missing, duplicate, and inconsistent data while transforming large datasets across multiple tables
 - Initially struggled to **configure bookmarks** correctly for toggling visuals using buttons.
 
-### 🎓 Learnings
+### Learnings
 - Understanding and Using Parameters: Learned how to create and use parameters in Power BI to enable dynamic filtering, data source switching, and enhanced user interactivity within reports.
 - Mastering Tooltips for Enhanced Insights: Gained hands-on experience in creating report page tooltips to provide additional context and trend analysis without cluttering the main visuals.
 - Deepened DAX Proficiency: Learned to write efficient and complex DAX measures and calculated columns to perform dynamic aggregations, time intelligence, and conditional logic for deriving meaningful business insights. Also learned how to handle many-to-many relationships using reference tables and DAX functions like ALLNOBLANKROW to ensure accurate calculations.
@@ -120,22 +120,22 @@ AtliQ Hardware, a multinational company specializing in computer hardware and ac
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 - Integrate predictive analytics using AI visuals.
 - Automate scheduled reporting and alerts.
 - Add new modules (HR, Inventory, CRM).
 
 ---
 
-## 🛠️ Skills Applied
+## Skills Applied
 
-### ✅ Technical
+### Technical
 - Data Modeling (Snowflake Schema)  
 - Power BI Desktop, Power Query, DAX, Tooltips  
 - SQL (MySQL) for Data Extraction  
 - DAX Studio for optimization  
 
-### ✅ Soft Skills  
+### Soft Skills  
 - Storytelling with Data  
 - Stakeholder Management  
 - Dashboard Design with Empathy
